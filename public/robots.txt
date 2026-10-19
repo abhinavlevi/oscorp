@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Fast Indexing & Sitemaps
+Sitemap: https://oscorp.app/sitemap.xml

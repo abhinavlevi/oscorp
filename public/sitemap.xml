@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://oscorp.app/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://oscorp.app/og-image.png</image:loc>
+      <image:title>Oscorp Security ID Generator // Prop Access Credentials</image:title>
+      <image:caption>Interactive prop-accurate access badge creator from The Amazing Spider-Man</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://oscorp.app/?p=peter</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://oscorp.app/og-peter.png</image:loc>
+      <image:title>Peter Parker Genetics Laboratory Staff Badge #A00810</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://oscorp.app/?p=guevara</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://oscorp.app/og-guevara.png</image:loc>
+      <image:title>Rodrigo Guevara Intern Restricted Access Pass</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://oscorp.app/?p=osborn</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://oscorp.app/og-osborn.png</image:loc>
+      <image:title>Norman Osborn Executive Directorate Level Alpha Pass</image:title>
+    </image:image>
+  </url>
+</urlset>
